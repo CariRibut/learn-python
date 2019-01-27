@@ -1,0 +1,2 @@
+x="Mokuzai"
+print(x)

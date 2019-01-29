@@ -7,3 +7,6 @@ print("Bilangan desimal = %10.1f" %(13.4562))
 print('{} {} {}'.format('mokuzai','mencari','cinta'))
 print('{0:8} | {1:10}'.format('Apel','Banyak'))
 print('{0:8} | {1:10}'.format('Jeruk','Dikit'))
+s=["Pena","pensil"]
+print(s)
+print(s.reverse())
